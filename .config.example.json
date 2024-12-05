@@ -1,0 +1,9 @@
+{
+    "app_name": "YOUR_APP_NAME",
+    "origin": "https://YOUR_DOMAIN",
+    "base_path": "/API_PATH",
+    "config_sync_resource_name": "FOO",
+    "config_sync_field_name": "BAR",
+    "resources": {
+    }
+}
